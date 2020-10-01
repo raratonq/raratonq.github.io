@@ -1,6 +1,6 @@
 # Week 1
 ## Machine Learning - Coursera 
-[Classroom Link](https://www.coursera.org/learn/machine-learning/home/week/1)
+[Classroom Link](https://www.coursera.org/learn/machine-learning/home/welcome)
 ### Notes 
 [Lecture slides](https://d18ky98rnyall9.cloudfront.net/_974fa7509d583eabb592839f9716fe25_Lecture1.pdf?Expires=1601683200&Signature=jdlQS9QmiQ9Zffbje~qneQnVf79WF0-a4IOS22D0a1ivSQ2BthZaNSkAowYDkR47Hz-L1J1r8QYzACRBDnhA5dy1hokPhdrCmBK5qroykV5O8z2ZVbNapDIC1kQw4SdG0quPTJuTqiKH5KsXmtiFjHbVoDaCRHYEpW29zSK9kHs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
